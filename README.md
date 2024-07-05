@@ -1,1 +1,1 @@
-This is my status for my discord bot.
+This is my config for my discord bot.
